@@ -1,0 +1,36 @@
+/* add your CSS here */
+
+body {
+    width: 320px;
+    line-height: 140%;
+    display: flex;
+    }
+h3 {
+    font-size: x-large;
+    padding: 0px 3px 0px 3px;}
+img {
+    width: 300px;
+    border: 1px solid grey;}
+ul {
+    list-style: none;
+    padding: 1px 1px 1px 0px;}
+span {
+    font-weight: bold;}
+
+.italic {
+    font-style: italic}
+.padding1 {padding: 1px 1px 1px 1px;}  
+.outerbox {
+    border: 1px solid #d9d9d9;
+    width: 300px;
+    padding: 13px 13px 13px 13px;
+    margin: 20px 20px 20px 20px;
+    background-color: #e6ffe6;
+    box-shadow: 10px 10px #f2f2f2;
+}
+.box {
+    border: 1px solid #d9d9d9;
+    width: 274px;
+    padding: 0px 13px 0px 13px;
+    background-color: #e6ffe6;}
+
